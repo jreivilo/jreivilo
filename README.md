@@ -16,10 +16,3 @@
 ![C](https://img.shields.io/badge/-C-239120?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-## 🌱 Personal Qualities
-![Autonomous](https://img.shields.io/badge/-Autonomous-blue)
-![Proactive](https://img.shields.io/badge/-Proactive-brightgreen)
-![Fast Learner](https://img.shields.io/badge/-Fast%20Learner-orange)
-
-## 👨‍💻 Hackathons
-![Hackathons](https://img.shields.io/badge/-Hackathons-9cf)
