@@ -19,3 +19,4 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=flat&logo=Windows&logoColor=white)
 
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=jolivier)](https://github.com/mohouyizme/1337-readme)
