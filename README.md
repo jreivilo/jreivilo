@@ -25,4 +25,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=flat&logo=Windows&logoColor=white)
 
+## Music
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
 
