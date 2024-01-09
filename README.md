@@ -20,7 +20,7 @@
 ![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=flat&logo=Windows&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<username>/<repository>/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
 </picture>
