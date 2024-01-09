@@ -26,6 +26,6 @@
 ![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=flat&logo=Windows&logoColor=white)
 
 ## Music
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jreivilo)
 
 
