@@ -1,5 +1,11 @@
 # Hi there, I'm Jérémy Olivier 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 ## 🌱 About Me
 - **Working On:** XAI with SHAP.
 - **Interests:** Data science and machine learning.
@@ -19,8 +25,4 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![WSL](https://img.shields.io/badge/-WSL-4EAA25?style=flat&logo=Windows&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/jreivilo/jreivilo/ee3e3c581bca7364e43332e891599ad3bbfcabaf/github-contribution-grid-snake-dark.svg" />
-</picture>
+
